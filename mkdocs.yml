@@ -1,0 +1,8 @@
+site_name: Tekom Demo
+theme:
+  name: material
+  palette:
+    primary: red
+
+plugins:
+  - privacy
